@@ -6,4 +6,4 @@ Circle with random position falls with gravity.
 
 Code is in gh-pages branch.
 
-Life: https://lenaburl.github.io/canvasGravity/
+Life: https://lenaburl.github.io/canvasGravity/index.html
